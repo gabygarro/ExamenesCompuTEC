@@ -1,6 +1,8 @@
 # ExamenesCompuTEC
 Banco de exámenes de cursos de Ingeniería en Computación del Instituto Tecnológico de Costa Rica.
 
+Por favor no hagan forks para luego subir los archivos solo a sus repos. **Hagan un Pull Request a este repo para que todos tengan a acceso a los exámenes nuevos.**
+
 # Jerarquía de carpetas
 Si tiene exámenes de algún curso, por favor siga la siguiente guía o vea los ejemplos de las carpetas que ya existen.
 
